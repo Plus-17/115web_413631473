@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+  <!-- 設定文字編碼，避免中文顯示亂碼 -->
+  <meta charset="UTF-8">
+
+  <!-- 讓網頁能適應手機與不同螢幕尺寸 -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- 設定瀏覽器分頁標題 -->
+  <title>我的個人網站</title>
+</head>
+
+<body>
+  <!-- header：網頁的頁首區域 -->
+  <header>
+    <!-- h1：網頁最主要的標題 -->
+    <h1>黃怡嘉的基本自我介紹！</h1>
+
+    <!-- nav：放置網頁導覽連結 -->
+    <nav>
+      <!-- 連結到目前的首頁 -->
+      <a href="index.html">首頁</a>
+
+      <!-- 連結到同一個資料夾中的 about.html -->
+      <a href="about.html">關於我</a>
+
+      <!-- 連結到外部網站 -->
+      <!-- target="_blank" 代表在新分頁開啟 -->
+      <a
+        href="https://www.tku.edu.tw/"
+        target="_blank"
+        rel="noreferrer"
+      >
+        淡江大學
+      </a>
+    </nav>
+  </header>
+
+  <!-- main：網頁的主要內容 -->
+  <main>
+
+    <!-- section：自我介紹區域 -->
+    <section>
+      <h2>自我介紹</h2>
+
+      <!-- 插入圖片 -->
+      <!-- src：圖片檔案的位置 -->
+      <!-- alt：圖片無法顯示時的替代文字 -->
+      <!-- width：設定圖片寬度 -->
+      <img
+        src="file:///Users/huangyijia/code/115web_413631473/week2/OMHB9420拷貝.PNG"
+        alt="我的個人照片"
+        width="200"
+      >
+
+      <!-- p：建立段落 -->
+      <p>
+        大家好，我目前就讀淡江大學，是資管系的學生，
+        現在在學習網路程式設計。
+      </p>
+
+      <!-- strong：表示重要或需要強調的文字 -->
+      <!-- em：表示語氣上的強調文字 -->
+      <p>
+        我喜歡學習
+        <strong>網頁的前端版面設計</strong>
+        跟
+        <em>色彩相關的事物</em>。
+      </p>
+    </section>
+
+    <!-- section：興趣清單區域 -->
+    <section>
+      <h2>我的興趣</h2>
+
+      <!-- ul：建立無序清單 -->
+      <ul>
+        <!-- li：清單中的一個項目 -->
+        <li>彈奏樂器</li>
+        <li>閱讀</li>
+        <li>繪畫跟煮飯加上吃飯</li>
+      </ul>
+    </section>
+
+    <!-- section：學習步驟區域 -->
+    <section>
+      <h2>最想去的幾個國家</h2>
+
+      <!-- ol：建立有順序的清單 -->
+      <ol>
+        <li>加拿大</li>
+        <li>日本</li>
+        <li>奧地利</li>
+      </ol>
+    </section>
+
+    <!-- section：課程表格區域 -->
+    <section>
+      <h2>找到夢想的幾個步驟</h2>
+
+      <!-- table：建立表格 -->
+      <table>
+        <!-- caption：設定表格標題 -->
+        <caption>致還未找到的目標</caption>
+
+        <!-- thead：表格的標題區域 -->
+        <thead>
+          <tr>
+            <!-- th：表格標題欄位 -->
+            <th scope="col">步驟</th>
+            <th scope="col">說明</th>
+          </tr>
+        </thead>
+
+        <!-- tbody：表格的資料內容區域 -->
+        <tbody>
+          <!-- tr：建立一列表格資料 -->
+          <tr>
+            <!-- td：一般資料欄位 -->
+            <td>Step 1</td>
+            <td>嘗試各種不同方面的事情</td>
+          </tr>
+
+          <tr>
+            <td>Step 2</td>
+            <td>看自己在哪個領域過的最有衝勁</td>
+          </tr>
+
+          <tr>
+            <td>Step 3</td>
+            <td>找到後往那個方向努力盡可能達到目標</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <!-- div：一般區塊容器，本身沒有特殊語意 -->
+    <div>
+      <h2>更多資訊</h2>
+
+      <!-- 插入連結到 about.html -->
+      <p>
+        <a href="about.html">查看完整自我介紹</a>
+      </p>
+    </div>
+  </main>
+
+  <!-- footer：網頁的頁尾區域 -->
+  <footer>
+    <p>© 2026 我的個人網站</p>
+  </footer>
+</body>
+
+</html>
