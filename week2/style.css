@@ -16,9 +16,9 @@ body {
 header,
 footer {
   padding: 24px;
-  color: white;
+  color: rgb(198, 214, 237);
   text-align: center;
-  background-color: #234e70;
+  background-color: #002a6e;
 }
 
 /* 導覽列 */
@@ -50,9 +50,9 @@ section,
 main > div {
   margin-bottom: 24px;
   padding: 24px;
-  background-color: white;
+  background-color: rgb(193, 239, 255);
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 2px 8px rgba(255, 177, 177, 0.08);
 }
 
 /* 標題與文字 */
@@ -61,11 +61,11 @@ h1 {
 }
 
 h2 {
-  color: #234e70;
+  color: #ffbebe;
 }
 
 p {
-  line-height: 1.8;
+  line-height: 2.0;
 }
 
 /* 圖片 */
