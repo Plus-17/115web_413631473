@@ -16,9 +16,9 @@ body {
 header,
 footer {
   padding: 24px;
-  color: rgb(198, 214, 237);
+  color: #f7d79f;
   text-align: center;
-  background-color: #002a6e;
+  background-color: #3e6b63;
 }
 
 /* 導覽列 */
@@ -29,7 +29,7 @@ nav {
 }
 
 nav a {
-  color: white;
+  color: #f7d79f;
   text-decoration: none;
 }
 
@@ -50,9 +50,9 @@ section,
 main > div {
   margin-bottom: 24px;
   padding: 24px;
-  background-color: rgb(193, 239, 255);
+  background-color: #f7d79f;
   border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(255, 177, 177, 0.08);
+  box-shadow: 0 2px 8px #3e6b63;
 }
 
 /* 標題與文字 */
@@ -61,7 +61,7 @@ h1 {
 }
 
 h2 {
-  color: #ffbebe;
+  color: #f7d79f;
 }
 
 p {
@@ -89,12 +89,12 @@ table {
 th,
 td {
   padding: 15px;
-  border: 1px solid #cbd5e1;
+  border: 1px solid #f7d79f;
   text-align: left;
 }
 
 th {
-  background-color: #cbd5e1;
+  background-color: #f7d79f;
 }
 
 /* 手機版面 */
