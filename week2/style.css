@@ -70,7 +70,7 @@ p {
 
 /* 圖片 */
 img {
-  max-width: 100%;
+  max-width: 80%;
   height: auto;
   border-radius: 8px;
 }
@@ -82,13 +82,13 @@ li {
 
 /* 表格 */
 table {
-  width: 100%;
+  width: 80%;
   border-collapse: collapse;
 }
 
 th,
 td {
-  padding: 12px;
+  padding: 15px;
   border: 1px solid #cbd5e1;
   text-align: left;
 }
