@@ -18,7 +18,7 @@ footer {
   padding: 24px;
   color: #fff4e0;
   text-align: center;
-  background-color: #a87f77;
+  background-color: #57423d;
 }
 
 /* 導覽列 */
@@ -89,12 +89,12 @@ table {
 th,
 td {
   padding: 15px;
-  border: 1px solid #f2d1a2ae;
+  border: 1px solid #bc9f6d;
   text-align: left;
 }
 
 th {
-  background-color: #e9dfcc;
+  background-color: #bc9f6d;
 }
 
 /* 手機版面 */
