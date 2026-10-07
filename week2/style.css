@@ -7,7 +7,7 @@
 body {
   margin: 0;
   color: #3e6b63;
-  background-color: #f7d79f;
+  background-color: #fff4e0;
   font-family: Arial, "Microsoft JhengHei", sans-serif;
   line-height: 1.6;
 }
@@ -16,7 +16,7 @@ body {
 header,
 footer {
   padding: 24px;
-  color: #f7d79f;
+  color: #fff4e0;
   text-align: center;
   background-color: #3e6b63;
 }
@@ -29,7 +29,7 @@ nav {
 }
 
 nav a {
-  color: #f7d79f;
+  color: #fff4e0;
   text-decoration: none;
 }
 
@@ -50,9 +50,9 @@ section,
 main > div {
   margin-bottom: 24px;
   padding: 24px;
-  background-color: #f7d79f;
+  background-color: #fff4e0;
   border-radius: 8px;
-  box-shadow: 0 2px 8px #3e6b63;
+  box-shadow: 0 2px 8px #3b6e92;
 }
 
 /* 標題與文字 */
@@ -61,7 +61,7 @@ h1 {
 }
 
 h2 {
-  color: #fff7e9;
+  color: #f7d79f;
 }
 
 p {
@@ -89,12 +89,12 @@ table {
 th,
 td {
   padding: 15px;
-  border: 1px solid #654712;
+  border: 1px solid #fff1d5;
   text-align: left;
 }
 
 th {
-  background-color: #ebe2d0;
+  background-color: #fff1d5;
 }
 
 /* 手機版面 */
