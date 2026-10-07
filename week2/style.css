@@ -18,7 +18,7 @@ footer {
   padding: 24px;
   color: #fff4e0;
   text-align: center;
-  background-color: #3e6b63;
+  background-color: #a87f77;
 }
 
 /* 導覽列 */
@@ -52,7 +52,7 @@ main > div {
   padding: 24px;
   background-color: #fff4e0;
   border-radius: 8px;
-  box-shadow: 0 2px 8px #cdaf7c;
+  box-shadow: 0 2px 8px #bc9f6d;
 }
 
 /* 標題與文字 */
@@ -89,7 +89,7 @@ table {
 th,
 td {
   padding: 15px;
-  border: 1px solid #3e6b63ae;
+  border: 1px solid #f2d1a2ae;
   text-align: left;
 }
 
