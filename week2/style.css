@@ -52,7 +52,7 @@ main > div {
   padding: 24px;
   background-color: #fff4e0;
   border-radius: 8px;
-  box-shadow: 0 2px 8px #3b6e92;
+  box-shadow: 0 2px 8px #3e6b63;
 }
 
 /* 標題與文字 */
@@ -61,7 +61,7 @@ h1 {
 }
 
 h2 {
-  color: #f7d79f;
+  color: #deb97a;
 }
 
 p {
@@ -89,12 +89,12 @@ table {
 th,
 td {
   padding: 15px;
-  border: 1px solid #fff1d5;
+  border: 1px solid #769f72a4;
   text-align: left;
 }
 
 th {
-  background-color: #fff1d5;
+  background-color: #769f72a4;
 }
 
 /* 手機版面 */
