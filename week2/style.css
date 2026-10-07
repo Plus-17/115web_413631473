@@ -89,12 +89,12 @@ table {
 th,
 td {
   padding: 15px;
-  border: 1px solid #bc9f6d;
+  border: 1px solid #bc9f6da0;
   text-align: left;
 }
 
 th {
-  background-color: #bc9f6d;
+  background-color: #bc9f6da0;
 }
 
 /* 手機版面 */
