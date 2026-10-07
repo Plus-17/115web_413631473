@@ -6,7 +6,7 @@
 /* 整個網頁的基本設定 */
 body {
   margin: 0;
-  color: #3e6b63;
+  color: #cdaf7c;
   background-color: #fff4e0;
   font-family: Arial, "Microsoft JhengHei", sans-serif;
   line-height: 1.6;
@@ -52,7 +52,7 @@ main > div {
   padding: 24px;
   background-color: #fff4e0;
   border-radius: 8px;
-  box-shadow: 0 2px 8px #3e6b63;
+  box-shadow: 0 2px 8px #cdaf7c;
 }
 
 /* 標題與文字 */
@@ -61,7 +61,7 @@ h1 {
 }
 
 h2 {
-  color: #deb97a;
+  color: #68593f;
 }
 
 p {
@@ -82,7 +82,7 @@ li {
 
 /* 表格 */
 table {
-  width: 80%;
+  width: 100%;
   border-collapse: collapse;
 }
 
